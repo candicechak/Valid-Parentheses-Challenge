@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ValidParenthesesChallenge/FileContentIndex
+/.vs/ProjectEvaluation
+/.vs/ValidParenthesesChallenge/DesignTimeBuild
+/.vs/ValidParenthesesChallenge/v17
+/ValidParenthesesChallengeTestCases/bin/Debug/net8.0
+/ValidParenthesesChallengeTestCases/obj/Debug/net8.0
+/ValidParenthesesChallengeTestCases/obj/Release/net8.0
+/ValidParenthesesChallengeTestCases/obj
+/.vs
